@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\windows\\Desktop\\NET-LINQ\\NET-LINQ.csproj": {}
+    "m:\\DEV\\ESTUDOS-CSHARP-LINQ\\ESTUDOS-CSHARP-LINQ.csproj": {}
   },
   "projects": {
-    "C:\\Users\\windows\\Desktop\\NET-LINQ\\NET-LINQ.csproj": {
+    "m:\\DEV\\ESTUDOS-CSHARP-LINQ\\ESTUDOS-CSHARP-LINQ.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\windows\\Desktop\\NET-LINQ\\NET-LINQ.csproj",
-        "projectName": "NET-LINQ",
-        "projectPath": "C:\\Users\\windows\\Desktop\\NET-LINQ\\NET-LINQ.csproj",
+        "projectUniqueName": "m:\\DEV\\ESTUDOS-CSHARP-LINQ\\ESTUDOS-CSHARP-LINQ.csproj",
+        "projectName": "ESTUDOS-CSHARP-LINQ",
+        "projectPath": "m:\\DEV\\ESTUDOS-CSHARP-LINQ\\ESTUDOS-CSHARP-LINQ.csproj",
         "packagesPath": "C:\\Users\\windows\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\windows\\Desktop\\NET-LINQ\\obj\\",
+        "outputPath": "m:\\DEV\\ESTUDOS-CSHARP-LINQ\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\windows\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
