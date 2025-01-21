@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ESTUDOS-CSHARP-LINQ")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d812056622e998b0d86e8a4c9811fc3f8efb7c4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+243c87b3dad067d1d3380805f4d51538f94782ef")]
 [assembly: System.Reflection.AssemblyProductAttribute("ESTUDOS-CSHARP-LINQ")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ESTUDOS-CSHARP-LINQ")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

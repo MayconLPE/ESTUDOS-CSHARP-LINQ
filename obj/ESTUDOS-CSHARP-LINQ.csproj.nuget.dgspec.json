@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "m:\\DEV\\ESTUDOS-CSHARP-LINQ\\ESTUDOS-CSHARP-LINQ.csproj": {}
+    "M:\\DEV\\ESTUDOS-CSHARP-LINQ\\ESTUDOS-CSHARP-LINQ.csproj": {}
   },
   "projects": {
-    "m:\\DEV\\ESTUDOS-CSHARP-LINQ\\ESTUDOS-CSHARP-LINQ.csproj": {
+    "M:\\DEV\\ESTUDOS-CSHARP-LINQ\\ESTUDOS-CSHARP-LINQ.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "m:\\DEV\\ESTUDOS-CSHARP-LINQ\\ESTUDOS-CSHARP-LINQ.csproj",
+        "projectUniqueName": "M:\\DEV\\ESTUDOS-CSHARP-LINQ\\ESTUDOS-CSHARP-LINQ.csproj",
         "projectName": "ESTUDOS-CSHARP-LINQ",
-        "projectPath": "m:\\DEV\\ESTUDOS-CSHARP-LINQ\\ESTUDOS-CSHARP-LINQ.csproj",
+        "projectPath": "M:\\DEV\\ESTUDOS-CSHARP-LINQ\\ESTUDOS-CSHARP-LINQ.csproj",
         "packagesPath": "C:\\Users\\windows\\.nuget\\packages\\",
-        "outputPath": "m:\\DEV\\ESTUDOS-CSHARP-LINQ\\obj\\",
+        "outputPath": "M:\\DEV\\ESTUDOS-CSHARP-LINQ\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\windows\\AppData\\Roaming\\NuGet\\NuGet.Config",
