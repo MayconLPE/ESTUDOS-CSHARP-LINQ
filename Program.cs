@@ -49,16 +49,29 @@ internal class Program
         //                 select produto;
 
         // 04- ORDENAR OS PRODUTOS POR ID
-        var resultado = from produto in listaProdutos
-                        where produto.Id > 1 && produto.Id < 5
-                        orderby produto.Id // para decrescente: descending
-                        select produto;
+        // var resultado = from produto in listaProdutos
+        //                 where produto.Id > 1 && produto.Id < 5
+        //                 orderby produto.Id // para decrescente: descending
+        //                 select produto;
 
-        // EXECUTAR A CONSULTA
-        foreach (var result in resultado)
-        {
-            Console.WriteLine($"{result.Id} | {result.Nome} | {result.Valor} | {result.CategoriaId}");
-        }
+        // // EXECUTAR A CONSULTA
+        // foreach (var result in resultado)
+        // {
+        //     Console.WriteLine($"{result.Id} | {result.Nome} | {result.Valor} | {result.CategoriaId}");
+        // }
+
+            // AGRUPAR POR CATEGORIA:
+            var resultado = from produtos in listaProdutos
+                         group produtos by produtos.CategoriaId into produtosAgrupados
+                         select produtosAgrupados;
+            foreach (var item in resultado)
+            {
+                Console.WriteLine(item.Key);
+                foreach (var prod in item)
+                {
+                    Console.WriteLine($"Produto: {prod.Nome} | Categoria: {prod.CategoriaId}");
+                }
+            }
 
     }
 }

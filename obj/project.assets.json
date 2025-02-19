@@ -8,26 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\windows\\.nuget\\packages\\": {}
+    "C:\\Users\\mayco\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "M:\\DEV\\ESTUDOS-CSHARP-LINQ\\ESTUDOS-CSHARP-LINQ.csproj",
+      "projectUniqueName": "A:\\DEV\\ESTUDOS-CSHARP-LINQ\\ESTUDOS-CSHARP-LINQ.csproj",
       "projectName": "ESTUDOS-CSHARP-LINQ",
-      "projectPath": "M:\\DEV\\ESTUDOS-CSHARP-LINQ\\ESTUDOS-CSHARP-LINQ.csproj",
-      "packagesPath": "C:\\Users\\windows\\.nuget\\packages\\",
-      "outputPath": "M:\\DEV\\ESTUDOS-CSHARP-LINQ\\obj\\",
+      "projectPath": "A:\\DEV\\ESTUDOS-CSHARP-LINQ\\ESTUDOS-CSHARP-LINQ.csproj",
+      "packagesPath": "C:\\Users\\mayco\\.nuget\\packages\\",
+      "outputPath": "A:\\DEV\\ESTUDOS-CSHARP-LINQ\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\windows\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\mayco\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -66,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.406/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
